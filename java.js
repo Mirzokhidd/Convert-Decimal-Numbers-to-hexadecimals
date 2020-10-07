@@ -41,4 +41,4 @@ function decimalToHex(value) {
 };
 };
 
-console.log(decimalToHex(635));
+console.log(decimalToHex(#value));
