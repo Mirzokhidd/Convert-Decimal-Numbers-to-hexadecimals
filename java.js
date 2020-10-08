@@ -1,3 +1,6 @@
+//You can run the code through the terminal by specifying the path and running the text, "node java.ja"
+//Or you can just run it rhought the 'Run code' to output function of visual studious
+
 function decimalToHex(value) {
     var v = value;
     var array = [];
