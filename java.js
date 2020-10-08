@@ -3,6 +3,8 @@
 
 //-------------------------------------------------------------------------------------------------------------
 
+//A code which turns a decimal number into a hexadecimal. Example, 498 (decimal number) --> 1F2 (hexadecimal number)
+
 function decimalToHex(value) {
     var v = value;
     var array = [];
